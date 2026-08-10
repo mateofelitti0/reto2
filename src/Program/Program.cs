@@ -25,7 +25,7 @@ public class Subtraction
 {
     public static int Subtract(int a, int b)
     {
-        return 3;
+        return a - b;
     }
 }
 
